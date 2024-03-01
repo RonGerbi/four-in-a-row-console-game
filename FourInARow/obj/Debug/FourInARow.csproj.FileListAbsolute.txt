@@ -1,0 +1,9 @@
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\bin\Debug\FourInARow.exe.config
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\bin\Debug\FourInARow.exe
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\bin\Debug\FourInARow.pdb
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\obj\Debug\FourInARow.csproj.AssemblyReference.cache
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\obj\Debug\FourInARow.csproj.CoreCompileInputs.cache
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\obj\Debug\FourInARow.csproj.Up2Date
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\obj\Debug\FourInARow.exe
+C:\Users\רון\Desktop\four-in-a-row\FourInARow\obj\Debug\FourInARow.pdb
